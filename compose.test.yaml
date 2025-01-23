@@ -1,4 +1,4 @@
 name: docker-hello-world
 services:
   server:
-    image: hello-world:latest
+    image: nats:latest
